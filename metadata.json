@@ -1,0 +1,10 @@
+{
+  "name": "Interactive Birthday Experience",
+  "description": "A 2026-modern interactive birthday greeting web app for best friends featuring dark mode glowing aesthetic, interactive candle blowing, audio synth, memory timeline, custom wishes, and particle fireworks.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
